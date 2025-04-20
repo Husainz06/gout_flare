@@ -1,0 +1,18 @@
+import streamlit as st
+
+st.title("References")
+st.write("[1]. https://www.mayoclinic.org/diseases-conditions/gout/symptoms-causes/sync-20372897")
+st.write("[2] https://my.clevelandclinic.org/health/diseases/4755-gout")
+st.write("[3] https://pmc.ncbi.nlm.nih.gov/articles/PMC3203212/#ref-list1")
+st.write("[4] Chen-Xu M, Yokose C, Rai SK, Pillinger MH, Choi HK. Contemporary prevalence of gout and hyperuricemia in the United States and decadal trends: the National Health and Nutrition Examination Survey, 2007–2016. Arthritis Rheumatol 2019;71:991–999. DOI: 10. 1002/art.40807.")
+st.write("[5]  Elfishawi MM, Zleik N, Kvrgic Z, et al. The rising incidence of gout and the increasing burden of comorbidities: a population-based study over 20 years. J Rheumatol 2018;45:574–579. DOI: 10.3899/ jrheum.170806.")
+st.write("[6]  O’Dell, J. R., Brophy, M. T., Pillinger, M. H., Neogi, T., Palevsky, P. M., Wu, H., ... & Mikuls, T. R. (2022). Comparative effectiveness of allopurinol and febuxostat in gout management. NEJM evidence, 1(3), EVIDoa2100028.")
+st.write("[7] https://www.ibm.com/think/topics/logistic-regression")
+st.write("[8] https://www.ibm.com/think/topics/naive-bayes")
+st.write("[9] https://www.ibm.com/think/topics/random-forest")
+st.write("[10] https://xgboost.readthedocs.io/en/release_3.0.0/")
+st.write("[11] https://www.ibm.com/think/topics/knn")
+st.write("[12] https://www.ibm.com/think/topics/neural-networks")
+st.write("[13] https://pytorch.org")
+st.write("[14] https://www.geeksforgeeks.org/cross-validation-machine-learning/")
+st.write("[15] https://www.ibm.com/think/topics/overfitting")
