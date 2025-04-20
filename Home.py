@@ -14,7 +14,7 @@ st.write("Gout flare is a form of arthritis that is a very common and complex \
          as it affects about 4% of adults and about 9,000,000 individuals in the United States alone[4] and \
          with that number doubling in the last 30 years ")
 
-st.image("media/gout.png", caption="Gout Flare",width=400)
+st.image("Media/gout.png", caption="Gout Flare",width=400)
 st.write("Gout has strong associations with hypertension, obesity, diabetes, and renal and cardio-vascular \
          disease, in addition to accelerated mortality. Population data suggest that gout is significantly \
          under-treated, with urate-lowering therapy (the cornerstone of appropriate gout management) either \
