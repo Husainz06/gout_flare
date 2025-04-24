@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Final and Neural Network Approach")
+st.title("Updated Neural Network Approach")
 st.write("We need to ensure that we get reliable predection results, first, we believe that we need to perform k-fold cross \
          validation to ensure that the results we got are reliable results. The second thing is that we believe that we need \
          to regenerate the significant genes set for each fold to ensure that the test set is not included when we determine \
